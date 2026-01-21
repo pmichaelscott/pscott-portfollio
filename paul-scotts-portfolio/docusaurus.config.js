@@ -86,10 +86,10 @@ const config = {
       },
       navbar: {
         title: 'Paul Scott\'s Portfolio',
-        logo: {
-          alt: 'Paul Scott\'s Portfolio Logo',
+        // logo: {
+        //   alt: 'Paul Scott\'s Portfolio Logo',
           // src: 'img/logo.svg',
-        },
+        // },
         items: [
           {
             type: 'docSidebar',
