@@ -6,7 +6,7 @@ const FeatureList = [
   {
     title: 'Game Dev Projects',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    link: '/docs/intro',
+    link: '/docs/game-dev',
     description: (
       <>
         A collection of my game development projects, and some notes on why I made them. 
