@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Paul Scott's Portfolio Blog</title>
-        <link>https://www.paulscott.us.com/blog</link>
+        <link>https://paulscott.us.com/blog</link>
         <description>Paul Scott's Portfolio Blog</description>
         <lastBuildDate>Thu, 15 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[A Fresh Start]]></title>
-            <link>https://www.paulscott.us.com/blog/a-fresh-start</link>
-            <guid>https://www.paulscott.us.com/blog/a-fresh-start</guid>
+            <link>https://paulscott.us.com/blog/a-fresh-start</link>
+            <guid>https://paulscott.us.com/blog/a-fresh-start</guid>
             <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Look at that, my first post.]]></description>
             <content:encoded><![CDATA[<p>Look at that, my first post.</p>
@@ -21,7 +21,7 @@
 <p>Years back I stumbled upon <a href="https://youtu.be/CbArC2mvokQ?list=PLAbMhAYRuCUibhDtVUn3WJnHojS2uSNPD" target="_blank" rel="noopener noreferrer" class="">Yahtzee Crowshaw's Dev Diary</a> series, where he pledged to make 12 games in 12 months. I found the series inspirational. You have a creative individual with a number of books and games under his belt, all while regularly working on a show for The Escapest. Even with all those acolades, <strong>he</strong> felt like he needed to reset himself.</p>
 <p>I always figured such a goal was always out of reach for myself. What indie game development I've done over the last decade usually fizzled out quickly due to a lack of time, or getting to a point where I just feel lost with the project and put it on the metaphorical shelf indefinitely.</p>
 <p>I'm no Yahtzee Crowshaw. Despite that, I'd like to give his challenge a try.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-plan">The Plan<a href="https://www.paulscott.us.com/blog/a-fresh-start#the-plan" class="hash-link" aria-label="Direct link to The Plan" title="Direct link to The Plan" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-plan">The Plan<a href="https://paulscott.us.com/blog/a-fresh-start#the-plan" class="hash-link" aria-label="Direct link to The Plan" title="Direct link to The Plan" translate="no">​</a></h3>
 <p>I'm going to commit to working on an indie game every month over the next year, posting my progress and results here. More specifically:</p>
 <ol>
 <li class="">Work on a new game every month, until January 2027</li>

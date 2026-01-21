@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.paulscott.us.com/blog</id>
+    <id>https://paulscott.us.com/blog</id>
     <title>Paul Scott's Portfolio Blog</title>
     <updated>2026-01-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.paulscott.us.com/blog"/>
+    <link rel="alternate" href="https://paulscott.us.com/blog"/>
     <subtitle>Paul Scott's Portfolio Blog</subtitle>
-    <icon>https://www.paulscott.us.com/img/favicon.ico</icon>
+    <icon>https://paulscott.us.com/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[A Fresh Start]]></title>
-        <id>https://www.paulscott.us.com/blog/a-fresh-start</id>
-        <link href="https://www.paulscott.us.com/blog/a-fresh-start"/>
+        <id>https://paulscott.us.com/blog/a-fresh-start</id>
+        <link href="https://paulscott.us.com/blog/a-fresh-start"/>
         <updated>2026-01-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Look at that, my first post.]]></summary>
         <content type="html"><![CDATA[<p>Look at that, my first post.</p>
@@ -20,7 +20,7 @@
 <p>Years back I stumbled upon <a href="https://youtu.be/CbArC2mvokQ?list=PLAbMhAYRuCUibhDtVUn3WJnHojS2uSNPD" target="_blank" rel="noopener noreferrer" class="">Yahtzee Crowshaw's Dev Diary</a> series, where he pledged to make 12 games in 12 months. I found the series inspirational. You have a creative individual with a number of books and games under his belt, all while regularly working on a show for The Escapest. Even with all those acolades, <strong>he</strong> felt like he needed to reset himself.</p>
 <p>I always figured such a goal was always out of reach for myself. What indie game development I've done over the last decade usually fizzled out quickly due to a lack of time, or getting to a point where I just feel lost with the project and put it on the metaphorical shelf indefinitely.</p>
 <p>I'm no Yahtzee Crowshaw. Despite that, I'd like to give his challenge a try.</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-plan">The Plan<a href="https://www.paulscott.us.com/blog/a-fresh-start#the-plan" class="hash-link" aria-label="Direct link to The Plan" title="Direct link to The Plan" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-plan">The Plan<a href="https://paulscott.us.com/blog/a-fresh-start#the-plan" class="hash-link" aria-label="Direct link to The Plan" title="Direct link to The Plan" translate="no">​</a></h3>
 <p>I'm going to commit to working on an indie game every month over the next year, posting my progress and results here. More specifically:</p>
 <ol>
 <li class="">Work on a new game every month, until January 2027</li>
