@@ -13,6 +13,8 @@ const config = {
   title: 'Paul Scott\'s Portfolio',
   tagline: 'Just a place for my stuff',
   favicon: 'img/favicon.ico',
+  noIndex: true,
+  trailingSlash: false,
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -20,15 +22,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://paulscottportfolio.com',
+  url: 'https://www.paulscott.us.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'paul-cott', // Usually your GitHub org/user name.
-  projectName: 'paul-scott-portfolio', // Usually your repo name.
+  organizationName: 'pmichaelscott.github.io', // Usually your GitHub org/user name.
+  projectName: 'pscott-portfolio', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -83,10 +85,10 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Paul Scott\'s Portfolio',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Paul Scott\'s Portfolio Logo',
+          // src: 'img/logo.svg',
         },
         items: [
           {
@@ -97,7 +99,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/pmichaelscott/pscott-portfollio',
             label: 'GitHub',
             position: 'right',
           },
@@ -105,47 +107,47 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
+        // links: [
+        //   {
+        //     title: 'Docs',
+        //     items: [
+        //       {
+        //         label: 'Tutorial',
+        //         to: '/docs/intro',
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: 'Community',
+        //     items: [
+        //       {
+        //         label: 'Stack Overflow',
+        //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+        //       },
+        //       {
+        //         label: 'Discord',
+        //         href: 'https://discordapp.com/invite/docusaurus',
+        //       },
+        //       {
+        //         label: 'X',
+        //         href: 'https://x.com/docusaurus',
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: 'More',
+        //     items: [
+        //       {
+        //         label: 'Blog',
+        //         to: '/blog',
+        //       },
+        //       {
+        //         label: 'GitHub',
+        //         href: 'https://github.com/pmichaelscott/pscott-portfollio',
+        //       },
+        //     ],
+        //   },
+        // ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
