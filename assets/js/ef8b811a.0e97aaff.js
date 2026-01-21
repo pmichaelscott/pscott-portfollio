@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpaul_scotts_portfollio=globalThis.webpackChunkpaul_scotts_portfollio||[]).push([[947],{6600:t=>{t.exports=JSON.parse('{"authors":[{"name":"Paul Scott","title":"Aspiring Indie Game Developer","url":"www.linkedin.com/in/paul-michael-scott","page":{"permalink":"/blog/authors/pscott"},"key":"pscott","count":1}]}')}}]);

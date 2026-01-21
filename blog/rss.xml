@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Paul Scott's Portfolio Blog</title>
+        <link>https://www.paulscott.us.com/blog</link>
+        <description>Paul Scott's Portfolio Blog</description>
+        <lastBuildDate>Thu, 15 Jan 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[A Fresh Start]]></title>
+            <link>https://www.paulscott.us.com/blog/a-fresh-start</link>
+            <guid>https://www.paulscott.us.com/blog/a-fresh-start</guid>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Look at that, my first post.]]></description>
+            <content:encoded><![CDATA[<p>Look at that, my first post.</p>
+<p>Part of me is proud for taking the first step and writing this. Another part feels a little silly to be creating their first ever blog post in 2026. It's almost as if I showed up for the movie as it was ending. Why am I here? Why write this at all?</p>
+<p>The answer is simple: motivation. A public declaration to challenge myself to follow through with something.</p>
+<p>A little over a decade ago I acquired a game design degree, and I've yet to use it professionally. Well, technically the degree helped me get a job at a software company, but I haven't really done much in the way of game design or development. If my life were to end today, I think my largest regret would be that I never published a video game. I figured with 2026 just starting, why not take this year to change that?</p>
+<p>Years back I stumbled upon <a href="https://youtu.be/CbArC2mvokQ?list=PLAbMhAYRuCUibhDtVUn3WJnHojS2uSNPD" target="_blank" rel="noopener noreferrer" class="">Yahtzee Crowshaw's Dev Diary</a> series, where he pledged to make 12 games in 12 months. I found the series inspirational. You have a creative individual with a number of books and games under his belt, all while regularly working on a show for The Escapest. Even with all those acolades, <strong>he</strong> felt like he needed to reset himself.</p>
+<p>I always figured such a goal was always out of reach for myself. What indie game development I've done over the last decade usually fizzled out quickly due to a lack of time, or getting to a point where I just feel lost with the project and put it on the metaphorical shelf indefinitely.</p>
+<p>I'm no Yahtzee Crowshaw. Despite that, I'd like to give his challenge a try.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="the-plan">The Plan<a href="https://www.paulscott.us.com/blog/a-fresh-start#the-plan" class="hash-link" aria-label="Direct link to The Plan" title="Direct link to The Plan" translate="no">​</a></h3>
+<p>I'm going to commit to working on an indie game every month over the next year, posting my progress and results here. More specifically:</p>
+<ol>
+<li class="">Work on a new game every month, until January 2027</li>
+<li class="">Post at least two devlog updates on this site each month<!-- -->
+<ol>
+<li class="">Ideally a post describing the initial plan, and another at the end of the month showing the "final" work</li>
+</ol>
+</li>
+<li class="">The games do <strong>not</strong> need to be complete, but they should ideally be a bit more than a proof of concept</li>
+</ol>
+<p>Each goal stems from some larger professional development I'm working towards.</p>
+<p>Regarding #1, I want to develop a routine where I find time after work to stop playing games, and start making them. It's far too easy to be exhausted at the end of the day and fire up some Dead By Daylight after work. I still want to play games, but I'd like to develop a habit of switching over to this new hobby.</p>
+<p>Additionally, I want to get more comfortable with my tool sets. While I have some base comfort with Unity and a couple of different drawing tools, I think some consistent work would improve my capabilities with these tools.</p>
+<p>Regarding #2, I want to force myself into writing out an actual game diary for each game. By the time I write the first post, I should have some of the concepts documented already. When I do work on a game, I usually just jump right in without much of a plan. While that approach certainly feels great initially, I tend to reach a point where I did all the initial stuff I wanted to, and then lose interest to develop beyond the initial concept. By planning it out early on, I can get some practice setting a reasonable scope, especially so given the time limit each game has.</p>
+<p>Regarding #3, while finishing a game is the long-term goal, I don't want to this year is about building a new habit, not creating my magnum opus. It's okay to put something down, especially if the alternative if struggling to work on an idea I've lost interest in. The optimistic side of my brain likes to think that with twelve separate ideas fleshed out, I could spend some time in 2027 developing one of them into a more finalized game.</p>
+<p>Here goes nothing!</p>]]></content:encoded>
+            <category>Hello</category>
+            <category>Docusaurus</category>
+        </item>
+    </channel>
+</rss>

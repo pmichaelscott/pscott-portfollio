@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpaul_scotts_portfollio=globalThis.webpackChunkpaul_scotts_portfollio||[]).push([[472],{5513:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"A Fresh Start","permalink":"/blog/a-fresh-start","unlisted":false,"date":"2026-01-15T00:00:00.000Z"}]}')}}]);
