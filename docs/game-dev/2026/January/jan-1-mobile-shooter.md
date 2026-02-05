@@ -1,5 +1,5 @@
 ---
-title: January 1 - Mobile Shooter
+title: Mobile Shooter Post 2
 ---
 
 First game of my [2026 challenge](../../../../blog/a-fresh-start), and I'm already breaking the rules a bit in that I didn't start with a design document. In my defense, I didn't really have the challenge in mind before I started building, so I'm going to excuse myself this one time. 
@@ -78,9 +78,7 @@ Currently the game has:
 - "Big zombies", which periodically spawn and force the player to spend some time shooting them. 
 
 The game is lacking a few things:
-- A win condition - the game goes on until the player looses
-- There could be some better animations for things
-- Possibly some better 3D models, although I do worry about performance taking a hit if I just grab a zombie from the asset store
+- Some actual 3D models. The primitive shapes are great for prototyping, but 
 - A title screen
 - An actual title ("Mobile Shooter" is obviously a placeholder)
 - An ending screen ("You Won" or "Game Over")
